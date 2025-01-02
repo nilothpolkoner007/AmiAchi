@@ -92,7 +92,7 @@ Before starting the project, make sure you have the following installed:
 2. Install dependencies:
 
    ```bash
-   ns preview
+   npm i
    ```
 
 3. Set up Firebase, Google Maps, and Agora services:
@@ -102,16 +102,7 @@ Before starting the project, make sure you have the following installed:
 
 4. Run the app:
 
-   For iOS:
-   ```bash
-   npx react-native run-ios
-   ```
-
-   For Android:
-   ```bash
-   npx react-native run-android
-   ```
-
+ 
 ---
 
 ## Development
@@ -120,7 +111,7 @@ To make changes to the app:
 
 1. Start the development server:
    ```bash
-   yarn start  # or npm start
+   ns preview
    ```
 
 2. Test the app in your preferred simulator or on a physical device.
