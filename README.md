@@ -92,7 +92,7 @@ Before starting the project, make sure you have the following installed:
 2. Install dependencies:
 
    ```bash
-   yarn install  # or npm install
+   ns preview
    ```
 
 3. Set up Firebase, Google Maps, and Agora services:
